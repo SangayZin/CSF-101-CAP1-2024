@@ -1,9 +1,9 @@
-Average score of students: 50.36
+The average score of all students is: 50.36
 
 --------------------------------------------------
 
-Sorted list of students (Bubble Sort):
-Name                 Score     
+Bubble Sort Results for Students:
+Student Name         Score     
 ------------------------------
 Rickey Wangda_79     0         
 Kinley Zangpo_82     1         
@@ -251,10 +251,10 @@ Karma Tobgay_7       100
 Tandin Rai_76        100       
 
 Search Results:
-Linear Search Result: No student found with score 50
-Binary Search Result: No student found with score 50
+Result from Linear Search: Students with score 67: Palden wanggyel_57, Nuchu Subedi_84, Tandin Pem_99
+Result from Binary Search: Students with score 67: Palden wanggyel_57, Nuchu Subedi_84, Tandin Pem_99
 
 --------------------------------------------------
 
-Students with the lowest score (0): Rickey Wangda_79
-Students with the highest score (100): Tandin Rai_76, Karma Tobgay_7
+Students with the minimum score (0): Rickey Wangda_79
+Students achieving the highest score (100): Tandin Rai_76, Karma Tobgay_7
