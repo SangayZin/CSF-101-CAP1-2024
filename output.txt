@@ -251,8 +251,8 @@ Karma Tobgay_7       100
 Tandin Rai_76        100       
 
 Search Results:
-Result from Linear Search: Students with score 67: Palden wanggyel_57, Nuchu Subedi_84, Tandin Pem_99
-Result from Binary Search: Students with score 67: Palden wanggyel_57, Nuchu Subedi_84, Tandin Pem_99
+Result from Linear Search: Students with score 80: Chengay Norbu_41
+Result from Binary Search: Students with score 80: Chengay Norbu_41
 
 --------------------------------------------------
 

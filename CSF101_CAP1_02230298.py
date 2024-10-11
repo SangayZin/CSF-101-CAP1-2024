@@ -1,9 +1,10 @@
 # References:
 
-
-
-
-
+# 1. https://www.w3schools.com/python/python_file_handling.asp
+# 2. https://www.geeksforgeeks.org/sorting-algorithms-in-python/
+# 3. https://www.geeksforgeeks.org/linear-search-vs-binary-search/
+# 4. https://www.w3schools.com/python/python_lists_comprehension.asp
+# 5. https://www.geeksforgeeks.org/find-average-list-python/
 
 
 # file path for the student data
